@@ -22,12 +22,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="css3 logo"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://linktr.ee/thatshakespeare" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=000000&logoColor=white&labelColor=&style=flat" height="24" alt="linktree logo"  />
-  </a>
-</div>
 
 ###
