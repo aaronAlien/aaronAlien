@@ -1,4 +1,4 @@
-<h3 align="center">Hey, I'm Aaron👋🏽developer from London, UK</h3>
+<h3 align="center">Hey, I'm Aaron👋🏽 London, UK</h3>
 
 ###
 
